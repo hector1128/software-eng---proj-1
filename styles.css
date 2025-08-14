@@ -54,6 +54,7 @@ body {
   flex-wrap: wrap;
   flex-direction: row;
   background-color: aliceblue;
+  border-radius: 20px;
 }
 
 .aboutmesec {
@@ -68,5 +69,17 @@ body {
   font-weight: bold;
   margin: 10px;
   cursor: pointer;
-
 }
+
+.response {
+  display: none;
+  margin: 50px 20px;
+  background-color: aliceblue;
+  border-radius: 20px;
+  padding: 20px;
+  font-size: 20px;
+}
+
+
+
+
